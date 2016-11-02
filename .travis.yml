@@ -2,5 +2,5 @@ language : java
 
 deploy:
   provider: heroku
-  app: material-contacts-apispark # optional if it's the same as your repo name
+  app: qualite-logicielle-vladr
   api_key: "6582ae64-24d6-482b-afc8-cb01c308d788"
