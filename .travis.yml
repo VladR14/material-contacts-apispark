@@ -2,5 +2,8 @@ language : java
 
 deploy:
   provider: heroku
-  app: qualite-logicielle-vladr
-  api_key: "6582ae64-24d6-482b-afc8-cb01c308d788"
+  api_key: 
+  	secure: 6582ae64-24d6-482b-afc8-cb01c308d788
+  app: 
+  	master: qualite-logicielle-vladr
+  	staging: qualite-logicielle-vladr-staging
